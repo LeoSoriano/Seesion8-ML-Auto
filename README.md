@@ -14,13 +14,13 @@
 
 - **Content Moderate** (sirve para detectar groserias en texto y audio).
 
-- **Luis** **-->** (Comprension de lenguaje Natural).
-- 
+- **Luis** --> (Comprension de lenguaje Natural).
+
 - **Custom Vision** --> (vision computacional) es hacer que la maquina entienda imagenes o videos.
-- 
-- **Anomaly detector** **-->** (detecta anomalias).
-- 
-- **Face****-->** deteccion de rostros,edad,genero y emociones.
+
+- **Anomaly detector** --> (detecta anomalias).
+
+- **Face** --> deteccion de rostros,edad,genero y emociones.
 
 ----------------------------------------------------------------------------------------------------
 
